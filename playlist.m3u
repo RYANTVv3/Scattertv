@@ -5,7 +5,129 @@ http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815053
 http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822062
 #EXTINF:-1 tvg-id="NBA 02" tvg-logo="" tvg-name="NBA 02" group-title="USA | NBA LIVE",NBA 02
 http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822063
-#EXTINF:1 tvg-id="iptv/live" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="i[...]
+#EXTINF:1 tvg-id="iptv/live" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="NBALP",NBA League Pass Live 1
 https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
-#EXTINF:2 tvg-id="iptv/live2" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="[...]
+#EXTINF:2 tvg-id="iptv/live2" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="NBALP",NBA League Pass Live 2
 https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://seeklogo.com/images/E/ESPN-logo-DD40FDA251-seeklogo.com.png" group-title="USA | SPORTS",ESPN
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815054
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://seeklogo.com/images/E/ESPN-logo-DD40FDA251-seeklogo.com.png" group-title="USA | SPORTS",ESPN 2
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815055
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://seeklogo.com/images/F/FOX-Sports-logo-C85A19FF3A-seeklogo.com.png" group-title="USA | SPORTS",FOX SPORTS
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815056
+
+#EXTINF:-1 tvg-id="NFL" tvg-logo="https://seeklogo.com/images/N/NFL-logo-3DBDD1E33B-seeklogo.com.png" group-title="USA | FOOTBALL",NFL Network
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815057
+#EXTINF:-1 tvg-id="NFLREDZONE" tvg-logo="https://seeklogo.com/images/N/NFL-logo-3DBDD1E33B-seeklogo.com.png" group-title="USA | FOOTBALL",NFL Red Zone
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815058
+
+#EXTINF:-1 tvg-id="MLB" tvg-logo="https://seeklogo.com/images/M/MLB-logo-A7A35ECBC7-seeklogo.com.png" group-title="USA | BASEBALL",MLB Network
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815059
+
+#EXTINF:-1 tvg-id="NHL" tvg-logo="https://seeklogo.com/images/N/NHL-logo-FE139FF68F-seeklogo.com.png" group-title="USA | HOCKEY",NHL Network
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815060
+
+#EXTINF:-1 tvg-id="TNTSPORTS" tvg-logo="https://seeklogo.com/images/T/TNT-Sports-logo-C0C88C88E8-seeklogo.com.png" group-title="USA | SPORTS",TNT Sports
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815061
+#EXTINF:-1 tvg-id="TNTPLUS" tvg-logo="https://seeklogo.com/images/T/TNT-Sports-logo-C0C88C88E8-seeklogo.com.png" group-title="USA | SPORTS",TNT Plus
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815062
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://seeklogo.com/images/C/CNN-logo-FF0000A73F-seeklogo.com.png" group-title="USA | NEWS",CNN
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815063
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-logo="https://seeklogo.com/images/F/Fox-News-logo-FF8F5C5EE5-seeklogo.com.png" group-title="USA | NEWS",Fox News
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815064
+#EXTINF:-1 tvg-id="MSNBC" tvg-logo="https://seeklogo.com/images/M/MSNBC-logo-08BCB0FE14-seeklogo.com.png" group-title="USA | NEWS",MSNBC
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815065
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-999D4F0B55-seeklogo.com.png" group-title="USA | ENTERTAINMENT",HBO
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815066
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://seeklogo.com/images/H/HBO-logo-999D4F0B55-seeklogo.com.png" group-title="USA | ENTERTAINMENT",HBO 2
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815067
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-logo="https://seeklogo.com/images/S/Showtime-logo-7654CB4A35-seeklogo.com.png" group-title="USA | ENTERTAINMENT",Showtime
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815068
+#EXTINF:-1 tvg-id="STARZ" tvg-logo="https://seeklogo.com/images/S/Starz-logo-B45F1DA056-seeklogo.com.png" group-title="USA | ENTERTAINMENT",Starz
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815069
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://seeklogo.com/images/A/AMC-logo-B1D237A6D3-seeklogo.com.png" group-title="USA | TV",AMC
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815070
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://seeklogo.com/images/F/FX-Networks-logo-16D08C98B6-seeklogo.com.png" group-title="USA | TV",FX
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815071
+#EXTINF:-1 tvg-id="BRAVO" tvg-logo="https://seeklogo.com/images/B/Bravo-logo-CF1B6B5AA2-seeklogo.com.png" group-title="USA | TV",Bravo
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815072
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://seeklogo.com/images/U/USA-Network-logo-CE8C5B3F4E-seeklogo.com.png" group-title="USA | TV",USA Network
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815073
+
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://seeklogo.com/images/S/Syfy-logo-62E3B3B4EE-seeklogo.com.png" group-title="USA | SCI-FI",Syfy
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815074
+#EXTINF:-1 tvg-id="SCIFI" tvg-logo="https://seeklogo.com/images/S/Sci-Fi-Channel-logo-67FECD1A82-seeklogo.com.png" group-title="USA | SCI-FI",Sci-Fi Channel
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815075
+
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://seeklogo.com/images/D/Discovery-Channel-logo-71D7C6BE6E-seeklogo.com.png" group-title="USA | DOCUMENTARY",Discovery Channel
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815076
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://seeklogo.com/images/H/History-Channel-logo-5E45D7E3D7-seeklogo.com.png" group-title="USA | DOCUMENTARY",History Channel
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815077
+#EXTINF:-1 tvg-id="NATGEO" tvg-logo="https://seeklogo.com/images/N/National-Geographic-logo-2A3B8FBD64-seeklogo.com.png" group-title="USA | DOCUMENTARY",National Geographic
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815078
+
+#EXTINF:-1 tvg-id="NETFLIX" tvg-logo="https://seeklogo.com/images/N/Netflix-logo-DDA6395B25-seeklogo.com.png" group-title="STREAMING",Netflix
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815079
+#EXTINF:-1 tvg-id="HULU" tvg-logo="https://seeklogo.com/images/H/Hulu-logo-4B0B0A9B9F-seeklogo.com.png" group-title="STREAMING",Hulu
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815080
+#EXTINF:-1 tvg-id="DISNEYPLUS" tvg-logo="https://seeklogo.com/images/D/Disney-Plus-logo-2640F45C8F-seeklogo.com.png" group-title="STREAMING",Disney+
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815081
+#EXTINF:-1 tvg-id="PRIMEVIDEOPLUS" tvg-logo="https://seeklogo.com/images/A/Amazon-Prime-Video-logo-8F02D9D27C-seeklogo.com.png" group-title="STREAMING",Amazon Prime Video
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815082
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://seeklogo.com/images/P/Paramount-Plus-logo-3FC14A5B6E-seeklogo.com.png" group-title="STREAMING",Paramount+
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815083
+#EXTINF:-1 tvg-id="APPLETV" tvg-logo="https://seeklogo.com/images/A/Apple-TV-Plus-logo-53A17E8A6E-seeklogo.com.png" group-title="STREAMING",Apple TV+
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815084
+
+#EXTINF:-1 tvg-id="CARTOON" tvg-logo="https://seeklogo.com/images/C/Cartoon-Network-logo-01B1E4EA84-seeklogo.com.png" group-title="USA | KIDS",Cartoon Network
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815085
+#EXTINF:-1 tvg-id="NICK" tvg-logo="https://seeklogo.com/images/N/Nickelodeon-logo-E0DB8EE7F3-seeklogo.com.png" group-title="USA | KIDS",Nickelodeon
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815086
+#EXTINF:-1 tvg-id="DISNEY" tvg-logo="https://seeklogo.com/images/D/Disney-Channel-logo-0D4B9D3E7C-seeklogo.com.png" group-title="USA | KIDS",Disney Channel
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815087
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://seeklogo.com/images/T/TLC-logo-94C5A6BF7F-seeklogo.com.png" group-title="USA | LIFESTYLE",TLC
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815088
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://seeklogo.com/images/H/HGTV-logo-3FB6BA5E7E-seeklogo.com.png" group-title="USA | LIFESTYLE",HGTV
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815089
+#EXTINF:-1 tvg-id="FOODNET" tvg-logo="https://seeklogo.com/images/F/Food-Network-logo-6F8E1C0A7B-seeklogo.com.png" group-title="USA | LIFESTYLE",Food Network
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815090
+
+#EXTINF:-1 tvg-id="MUSIC" tvg-logo="https://seeklogo.com/images/M/MTV-logo-4F2DA39A0C-seeklogo.com.png" group-title="USA | MUSIC",MTV
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815091
+#EXTINF:-1 tvg-id="VH1" tvg-logo="https://seeklogo.com/images/V/VH1-logo-B5D3F4A0A5-seeklogo.com.png" group-title="USA | MUSIC",VH1
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815092
+
+#EXTINF:-1 tvg-id="SPIKE" tvg-logo="https://seeklogo.com/images/S/Spike-TV-logo-2E7F5C5F5F-seeklogo.com.png" group-title="USA | ACTION",Spike
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815093
+#EXTINF:-1 tvg-id="MYNETWORKTV" tvg-logo="https://seeklogo.com/images/M/MyNetworkTV-logo-7C3C3C3C3C-seeklogo.com.png" group-title="USA | TV",MyNetworkTV
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815094
+
+#EXTINF:-1 tvg-id="BBC" tvg-logo="https://seeklogo.com/images/B/BBC-logo-FA0C0A5AEA-seeklogo.com.png" group-title="INTERNATIONAL",BBC
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815095
+#EXTINF:-1 tvg-id="FRANCE24" tvg-logo="https://seeklogo.com/images/F/France-24-logo-7E9F6E8A8E-seeklogo.com.png" group-title="INTERNATIONAL",France 24
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815096
+#EXTINF:-1 tvg-id="DEUTSCHEWELLE" tvg-logo="https://seeklogo.com/images/D/Deutsche-Welle-DW-logo-0F0F0F0F0F-seeklogo.com.png" group-title="INTERNATIONAL",Deutsche Welle
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815097
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://seeklogo.com/images/A/Al-Jazeera-logo-5F5F5F5F5F-seeklogo.com.png" group-title="INTERNATIONAL",Al Jazeera
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815098
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://seeklogo.com/images/C/Cinemax-logo-7B9C9C9C9C-seeklogo.com.png" group-title="MOVIES",Cinemax
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815099
+#EXTINF:-1 tvg-id="ACTIONMAX" tvg-logo="https://seeklogo.com/images/C/Cinemax-logo-7B9C9C9C9C-seeklogo.com.png" group-title="MOVIES",ActionMax
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815100
+#EXTINF:-1 tvg-id="THRILLERMAX" tvg-logo="https://seeklogo.com/images/C/Cinemax-logo-7B9C9C9C9C-seeklogo.com.png" group-title="MOVIES",ThrillerMax
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815101
+#EXTINF:-1 tvg-id="MOVIECENTRAL" tvg-logo="https://seeklogo.com/images/M/Movie-Central-logo-1F1F1F1F1F-seeklogo.com.png" group-title="MOVIES",Movie Central
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815102
+
+#EXTINF:-1 tvg-id="GYM" tvg-logo="https://seeklogo.com/images/F/FitTV-logo-2E0E0E0E0E-seeklogo.com.png" group-title="USA | LIFESTYLE",FitTV
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815103
+#EXTINF:-1 tvg-id="TRAVEL" tvg-logo="https://seeklogo.com/images/T/Travel-Channel-logo-3F3F3F3F3F-seeklogo.com.png" group-title="USA | LIFESTYLE",Travel Channel
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815104
+#EXTINF:-1 tvg-id="ANIMAL" tvg-logo="https://seeklogo.com/images/A/Animal-Planet-logo-5E5E5E5E5E-seeklogo.com.png" group-title="USA | LIFESTYLE",Animal Planet
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815105
