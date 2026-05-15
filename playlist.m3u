@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" tvg-name="USA: NBA TV" group-title="USA | NBA LIVE",USA: NBA TV
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815053
+#EXTINF:-1 tvg-id="NBA 01" tvg-logo="" tvg-name="NBA 01: No games scheduled" group-title="USA | NBA LIVE",NBA 01: No games scheduled
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822062
+#EXTINF:-1 tvg-id="NBA 02" tvg-logo="" tvg-name="NBA 02" group-title="USA | NBA LIVE",NBA 02
+http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822063
+#EXTINF:1 tvg-id="iptv/live" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="i[...]
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
+#EXTINF:2 tvg-id="iptv/live2" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="[...]
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
