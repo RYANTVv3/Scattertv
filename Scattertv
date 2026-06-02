@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" tvg-name="USA: NBA TV" group-title="USA | NBA LIVE",USA: NBA TV
-http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/815053
-#EXTINF:-1 tvg-id="NBA 01" tvg-logo="" tvg-name="NBA 01: No games scheduled" group-title="USA | NBA LIVE",NBA 01: No games scheduled
-http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822062
-#EXTINF:-1 tvg-id="NBA 02" tvg-logo="" tvg-name="NBA 02" group-title="USA | NBA LIVE",NBA 02
-http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822063
-#EXTINF:1 tvg-id="iptv/live" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="iptv" group-title="NBA LEAGUE PASS",LIVE 1
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
-#EXTINF:2 tvg-id="iptv/live2" provider="NBALP" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider-logo="" provider-type="iptv" group-title="NBA LEAGUE PASS",LIVE 2
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
-#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="USA | PPV LIVE EVENTS",DAZN UK Event 1
-http://inthezone.pro:80/Sofia/Sofia/634664
-#EXTINF:-1 tvg-id="EVENT 01:" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvGWMGw6BdJQju82kD0i7qOSJM8Lf5W7KTgVOAQJI5LHjQ.png" tvg-name="EVENT 01: Lucas Oil Late Model Dirt Series at Eagle (5.14 7:15 PM ET)" group-title="USA | PPV LIVE EVENTS",EVENT 01: Lucas Oil Late Model Dirt Series at Eagle (5.14 7:15 PM ET)
-http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822716
-#EXTINF:-1 tvg-id="EVENT 02:" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvHJJcnFearhaGepDJ5GmjdW2F053Qec1M11ltI3GBfXuA.png" tvg-name="EVENT 02: Selinsgrive Speedway (5.14 6:15 PM ET)" group-title="USA | PPV LIVE EVENTS",EVENT 02: Selinsgrive Speedway (5.14 6:15 PM ET)
-http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822717
-#EXTINF:-1 tvg-id="EVENT 03:" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvF2Qb2dlGDAu57eYRi3Oncs3RMB9Ux3ByKORPOCmP3xEg.png" tvg-name="EVENT 03: Attica Raceway Park (5.14 6:30 PM ET)" group-title="USA | PPV LIVE EVENTS",EVENT 03: Attica Raceway Park (5.14 6:30 PM ET)
-http://wheremyslimesat.hopto.org:2096/Kentynes/0176324859/822718
+
+
+
+#EXTINF:1 group-title="NBAFINALS" tvg-id="" tvg-logo="https://i.imghippo.com/files/pTwT3502nZI.jpg?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE
+https://nbalp.djdoolky76.net/stream/nbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="PH | CONVERGE",A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVVax44.png" group-title="PH | CONVERGE",ABC Australia
