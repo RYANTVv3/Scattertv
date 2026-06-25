@@ -1,4 +1,113 @@
 #EXTM3U
+@@@@@
+#EXTINF:-148 tvg-logo="https://i.imgur.com/QxTehhs.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",ANIMAX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+
+#EXTINF:-167 tvg-logo="https://i.imgur.com/E1LIeR2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",ANIME X HIDIVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="Anime/Cartoons",Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="Anime/Cartoons",BOOMERANG TV
+http://nocable.cc:8080/vVgP6v/817017/14741
+
+#EXTINF:-92 tvg-id="Cartoon.Net.Hd.ph" tvg-logo="https://i.imgur.com/l7p2MpK.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOON NETWORK HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+#EXTINF:-93 tvg-logo="https://i.imgur.com/kHhmOMp.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",CARTOONITO
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250" group-title="Anime/Cartoons", Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
+#EXTINF:-161" tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Anime/Cartoons",CRUNCHYROLL TV
+https://bit.ly/Crunchyroll-ph
+
+#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="Anime/Cartoons",Disney Channel
+http://nocable.cc:8080/vVgP6v/817017/2206
+
+#EXTINF:-1 tvg-id="US: DISNEY JR EAST" tvg-name="USA Disney Junior UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="Anime/Cartoons",Disney Junior
+http://nocable.cc:8080/vVgP6v/817017/41960
+
+#EXTINF:-1 tvg-id="US: DISNEY XD WEST" tvg-name="USA Disney XD West LHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="Anime/Cartoons",Disney XD
+http://nocable.cc:8080/vVgP6v/817017/75621
+
+#EXTINF:-1 tvg-id="DREAMWORKS.ph"  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Anime/Cartoons",Dreamworks
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="Cg.Dreamworktag.ph" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=203" group-title="Anime/Cartoons", DreamWorks Tagalized
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
+
+#EXTINF:-1  tvg-name="Garfield and Friends" tvg-id="677f927554f43dad4b3258aa" tvg-logo="https://images.pluto.tv/channels/677f927554f43dad4b3258aa/colorLogoPNG.png" tvg-chno="619" group-title="Anime/Cartoons",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+
+#EXTINF:-1  tvg-name="Kartoon Channel!" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3860" group-title="Anime/Cartoons",Kartoon Channel!
+https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+
+#EXTINF:-102 tvg-id="Moonbug.Kids.ph" tvg-logo="https://i.imgur.com/cfQMx3J.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",MOONBUG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="US: NICKELODEON EAST" tvg-name="USA Nickelodeon UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Anime/Cartoons",USA Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
+
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Anime/Cartoons",NICK JR
+http://nocable.cc:8080/vVgP6v/817017/46710
+
+#EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Anime/Cartoons",USA NickToons
+http://nocable.cc:8080/vVgP6v/817017/36
+
+#EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1  tvg-name="RetroCrush" tvg-id="CABC2300012FY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300012FY_20250318T021309SQUARE.png" tvg-chno="3207" group-title="Anime/Cartoons",RetroCrush
+https://jmp2.uk/rok-72a54a3c7a3d5381a1baa223a5dc8d23.m3u8
+
+#EXTINF:-1  tvg-id="556877" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358838'&EntityType='Item'&EntityId='556877'&Width=264&Height=250" group-title="Anime/Cartoons", TG Junior
+https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
+
+#EXTINF:-1  tvg-name="The LEGO Channel" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-logo="http://xxip25.top:8080/98333898/98333898/38https://images.sr.roku.com/idType/roku/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" tvg-chno="404" group-title="Anime/Cartoons",The LEGO Channel
+https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
+
+#EXTINF:-1  tvg-name="Toony Planet" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8e0ba996e9985beb9c5e7f7f994ddc2e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680614970035_Toony_Planet_HUD_logo_260x147.png" tvg-chno="417" group-title="Anime/Cartoons",Toony Planet
+https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEwof7I.jpeg" group-title="Anime/Cartoons",TOM AND JERRY 24/7
+http://fortv.cc:8080/38871863/38871863/125635
+
+#EXTINF:-1  tvg-name="Transformers" tvg-id="9bd570b8bf145f73bba7532221e12666" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/9bd570b8bf145f73bba7532221e12666/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684427983619_TF_CSA_UK_2023Q4_Samsung_FAST_HUD_logo_C_260x147_3.png" tvg-chno="432" group-title="Anime/Cartoons",Transformers
+https://jmp2.uk/rok-9bd570b8bf145f73bba7532221e12666.m3u8
+
+#EXTINF:-105 tvg-logo="https://i.imgur.com/daHHNzj.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Anime/Cartoons",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+@@@@@
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7: 100 Foot Wave" tvg-logo="http://onlytimewilltell.xyz:2086/images/2774156c67ad0614dae83c77ddb63525.jpg" group-title="24/7",24/7: 100 Foot Wave
 http://websafety101.net:5050/JT2024/wxApKJ57yy/681753
